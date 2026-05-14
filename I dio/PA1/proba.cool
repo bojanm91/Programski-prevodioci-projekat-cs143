@@ -1,0 +1,25 @@
+42
+0
+100
+9999
+
+"hello world"
+"foo"
+
+"ime:\tBojan\nprezime:\tMadzgalj"
+
+"jedan backslash: \\"
+
+"ona rece \"zdravo\" i ode"
+
+"ovo je \
+jedan string"
+
+"null escape: \0"
+
+"nepoznat escape: \q"
+
+"ovo ce biti
+greska"
+
+"nikad ne zavrsava
