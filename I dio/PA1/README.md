@@ -44,7 +44,7 @@ gcc lex.yy.c -o skener
 echo 'if x <- 42' | ./skener
 ```
 
-## Struktura fajla
+## Struktura
 
 ```
 pa1.l       — Flex pravila (leksička specifikacija)

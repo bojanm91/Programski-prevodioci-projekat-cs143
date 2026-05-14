@@ -1,8 +1,8 @@
 # Programski prevodioci — Projekat
 
-Implementacija kompilatora za programski jezik **Cool** (Classroom Object-Oriented Language).
+Implementacija kompajlera za programski jezik **Cool** (Classroom Object-Oriented Language).
 
-Projekat se sastoji od 4 faze, svaka pokriva jednu komponentu kompilatora.
+Projekat se sastoji od 4 faze, svaka pokriva jednu komponentu kompajlera.
 
 ## Struktura
 
@@ -16,17 +16,17 @@ II dio/
   PA2.pdf     — Specifikacija zadatka (parser)
   WA2.pdf     — Pismeni zadatak 2
 
-cool-manual.pdf  — Referentni manual za Cool jezik
+cool-manual.pdf  — Cool language manual
 ```
 
 ## Faze projekta
 
 | Faza | Opis | Status |
 |------|------|--------|
-| PA1 | Leksička analiza (Flex) | ✅ Završeno |
-| PA2 | Parsiranje (Bison) | 🔲 |
-| PA3 | Semantička analiza | 🔲 |
-| PA4 | Generisanje koda | 🔲 |
+| PA1 | Leksička analiza (Flex) | Završeno |
+| PA2 | Parsiranje (Bison) | |
+| PA3 | Semantička analiza | |
+| PA4 | Generisanje koda | |
 
 ## PA1 — Leksička analiza
 
